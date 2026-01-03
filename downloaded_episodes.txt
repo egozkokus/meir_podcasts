@@ -96,3 +96,12 @@ https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/48320813/
 https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/48139137/op_ep03_cults_part1.mp3
 https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/47927924/mbm_ep2.mp3
 https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/47690552/mbm_ep1_amnesia.mp3
+https://podcasts.captivate.fm/media/34d0f4bc-7e68-4262-a66b-315428baecea/f6ea4abb-adfc-47ff-b6e9-1ef9cfaf34e2.mp3
+https://podcasts.captivate.fm/media/3712289e-d5df-4841-884d-3c455746737c/5a39a71a-ba63-4082-a8b5-e47c1cbfcee6.mp3
+https://podcasts.captivate.fm/media/61b13ba7-ba9f-4730-9a48-19c1bb9d0207/c1c12b9d-c33e-4c90-aaf3-7ae1a46e65a7.mp3
+https://podcasts.captivate.fm/media/d87b9a3c-0436-492b-98a3-6ac4de405ac0/aa776cae-c559-4ad1-af22-c2ab98e0532e.mp3
+https://podcasts.captivate.fm/media/4aa1ed15-675d-4809-98e8-458ff8781b66/7f21aa14-db6a-4f81-bc06-e70be1b21b55.mp3
+https://podcasts.captivate.fm/media/29e45ea8-6b88-45ac-a689-6ad1bada741f/47b9e0be-de96-4d04-ae82-1da662cd5fdc.mp3
+https://podcasts.captivate.fm/media/1b484dfa-8bec-4ef3-8b0c-e1b4dbd0fedf/71e448f3-274d-4e18-b81e-56aad76857cf.mp3
+https://podcasts.captivate.fm/media/af149257-e261-4f54-93eb-d0df1e38fe86/5888a95e-edc3-4e81-b215-f85f8af79805.mp3
+https://podcasts.captivate.fm/media/32b97ad8-2f44-4692-a3dd-7365e71b2033/37ba632d-a037-45ef-80ba-134b1d685798.mp3
