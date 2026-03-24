@@ -242,3 +242,8 @@ https://anchor.fm/s/1a47d17c/podcast/play/15936724/https%3A%2F%2Fd3ctxlq1ktw2nl.
 https://anchor.fm/s/1a47d17c/podcast/play/15565960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-14%2F183cc1b9ee6debb2c2db71a80d288a6e.m4a
 https://anchor.fm/s/1a47d17c/podcast/play/14357151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-05-27%2F77be3672a246a0bad099e560b4a447c7.m4a
 https://anchor.fm/s/1a47d17c/podcast/play/13872595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-08-23%2F8d37eac1a27b168beaa792045049b739.m4a
+https://api.spreaker.com/download/episode/70439139/rc2_ep101.mp3
+https://api.spreaker.com/download/episode/69948099/rc2.mp3
+https://api.spreaker.com/download/episode/69641260/rc2.mp3
+https://api.spreaker.com/download/episode/69408096/ep97_draft_3.mp3
+https://api.spreaker.com/download/episode/69183916/episode_69183916.mp3
