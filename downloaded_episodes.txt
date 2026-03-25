@@ -272,3 +272,8 @@ https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/passover_tarovot_hametz.mp3
 https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/purim.mp3
 https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/hatzitza_bnetilat_yadaim.mp3
 https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/netilat_yadaim_eize_maim.mp3
+https://api.spreaker.com/download/episode/70249445/h_gabi_ve_debi_v4.mp3
+https://api.spreaker.com/download/episode/69760438/hatshuva_hero_v3.mp3
+https://api.spreaker.com/download/episode/69401998/2025_episode_mst.mp3
+https://api.spreaker.com/download/episode/69241835/cats_mst.mp3
+https://api.spreaker.com/download/episode/69076436/episode_69076436.mp3
