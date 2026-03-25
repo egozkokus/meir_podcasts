@@ -277,3 +277,8 @@ https://api.spreaker.com/download/episode/69760438/hatshuva_hero_v3.mp3
 https://api.spreaker.com/download/episode/69401998/2025_episode_mst.mp3
 https://api.spreaker.com/download/episode/69241835/cats_mst.mp3
 https://api.spreaker.com/download/episode/69076436/episode_69076436.mp3
+https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/af9f8abf-fc76-4102-8faf-b41000f50726/audio.mp3?utm_source=Podcast&in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42
+https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/bcd7de90-7463-4de4-84e7-b41000f512d4/audio.mp3?utm_source=Podcast&in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42
+https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/e809e005-a472-4668-874d-b41000f51c2c/audio.mp3?utm_source=Podcast&in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42
+https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/291b4d25-80d1-43ba-a39d-b41000f524f9/audio.mp3?utm_source=Podcast&in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42
+https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/e66cabae-f928-474c-9c44-b40200d85975/audio.mp3?utm_source=Podcast&in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42
