@@ -267,3 +267,8 @@ https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-21
 https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/f79423b1-f5a1-4be2-9662-b41600125e62/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781
 https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/80de1dcc-aa71-48c1-bd9a-b412010b4a73/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781
 https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/5a3b5d78-e28f-49c4-91d5-b41101210ed0/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781
+https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/passover_lel_haseder.mp3
+https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/passover_tarovot_hametz.mp3
+https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/purim.mp3
+https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/hatzitza_bnetilat_yadaim.mp3
+https://tzurba.s3.eu-west-3.amazonaws.com/1new_round/netilat_yadaim_eize_maim.mp3
