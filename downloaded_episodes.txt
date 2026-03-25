@@ -257,3 +257,8 @@ https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/d3e99393-a86b-4bf5
 https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/d3e99393-a86b-4bf5-ae97-7b5194be2228/episodes/1d00f47c-1a2b-4fb5-a61e-b837727838ca/audio/8410de93-a976-4733-8801-5bb11de4074b/default_tc.mp3?aid=rss_feed&feed=w2pVTj5d
 https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/d3e99393-a86b-4bf5-ae97-7b5194be2228/episodes/97201dff-b637-438f-bb71-cfbd09e24498/audio/cdda65bc-6b69-4e62-94b8-bfa4154f905a/default_tc.mp3?aid=rss_feed&feed=w2pVTj5d
 https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/d3e99393-a86b-4bf5-ae97-7b5194be2228/episodes/4866d91b-61dd-4e01-b466-9afe189717a6/audio/7e17556e-d8a9-47dd-804e-202688159723/default_tc.mp3?aid=rss_feed&feed=w2pVTj5d
+https://anchor.fm/s/10db15928/podcast/play/117338333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-23%2F4715df34-c069-a774-a479-4201964ceebb.mp3
+https://anchor.fm/s/10db15928/podcast/play/117025855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F6fe9f776-b758-7f50-a8dc-d7a34f06cfc1.mp3
+https://anchor.fm/s/10db15928/podcast/play/116983908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F2521b73c-ac9c-dff8-26c5-2264adb43216.mp3
+https://anchor.fm/s/10db15928/podcast/play/116827208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2Fde919f31-9151-73d7-159a-80738085f6ec.mp3
+https://anchor.fm/s/10db15928/podcast/play/116775634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-11%2F97a960c3-71e6-961e-801f-f525f0acdc29.mp3
