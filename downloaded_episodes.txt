@@ -389,3 +389,13 @@ https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/62427249/
 https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/61643485/mst.mp3
 https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/61199128/fin.mp3
 https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/61012797/22_22.mp3
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/2053ffb4-84b8-41ef-b23f-b31d0064e216/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/fec635c5-67d8-4258-9f7c-b3160064c86f/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/91d57826-aee3-4bf5-8bf5-b30f00652795/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/68e4e993-4a5e-4c60-8be3-b3080075e183/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/d0d958af-c937-47ae-bbf5-b30800654e2b/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/b93310b8-aca6-4357-a6ad-b2fa00691a5f/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/2069c181-3ef7-4c50-aa85-b2fa005ef301/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/2a52bfb3-beba-4722-94f2-b2f300646f9e/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/891acf1e-9818-4ad7-a799-b2e50066b651/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
+https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/4959211f-a2b4-4c23-8e98-adcc0094e5fa/50310cff-a9d5-4327-abae-b2de0064c4f0/audio.mp3?utm_source=Podcast&in_playlist=35fbb2cf-91bd-44b2-9eea-adcc00952b98
